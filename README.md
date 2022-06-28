@@ -1,8 +1,8 @@
-## Financial Literacy Project
+# Financial Literacy Project
 FinancialLiteracy.c was created by Maygan Miguez, 13 April 2020 to simulate how much money a financially literate person versus a non-financially literate person would have after 40 years of financial decisions. 
 ________________________________________________________________________________________
 
-## To run FinancialLiteracy.c : 
+## To Run FinancialLiteracy.c: 
 
 1. Open main.c file
 
@@ -25,7 +25,7 @@ ________________________________________________________________________________
    and lists a person's wealth amount for years 0 - 40.
 ________________________________________________________________________________________
 
-## To create your own input file : 
+## To Create Your Own Input File: 
 
 Input file allows you to choose your own values for debt interest rate, additional
 amount paid on each debt payment, rent payment amount, savings interest rate, house price,
