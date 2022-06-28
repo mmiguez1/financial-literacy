@@ -1,0 +1,7 @@
+Debt Interest Rate: 20
+Debt Additional Payment: 15
+Rent Amount: 850
+Savings Interest Rate: 7
+House Price: 175000
+Mortgage Interest Rate: 4.5
+Mortgage Term: 30
