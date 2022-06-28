@@ -1,5 +1,5 @@
 # Financial Literacy Project
-FinancialLiteracy.c was created by Maygan Miguez, 13 April 2020 to simulate how much money a financially literate person versus a non-financially literate person would have after 40 years of financial decisions. 
+Financial Literacy Project simulates how much money a financially literate person versus a non-financially literate person would have after 40 years of financial decisions. 
       
 
 ## To Run FinancialLiteracy.c: 
